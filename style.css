@@ -1,0 +1,47 @@
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+}
+
+.jumbotron{
+  background-color: #80B584;
+}
+
+
+footer{
+  font-style: italic;
+}
+
+.am1{
+  font-size: 60px;
+  color: black;
+}
+
+body{
+  background-color: #C9DECB
+}
+
+
+.Contact{
+  background-color: #80B584;
+}
+
+.aboutme1 {
+  padding: 30px 150px;
+}
+
+
+
+.aboutme2{
+  color: black;
+  font-size: 45px;
+  padding: 30px 150px;
+}
+
+
+.aboutme3{
+  color: black;
+  font-size: 25px;
+  padding: 30px 150px;
+}
